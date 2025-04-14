@@ -25,6 +25,7 @@ The video below demonstrates the SwipeSense interaction in action. Click play to
     <img src="assets/Teaser.jpg" alt="Click to watch video" width="300px" />
   </a>
 </p>
+
 ---
 
 ## SwipeSenseNet: The Multi-Task Model
