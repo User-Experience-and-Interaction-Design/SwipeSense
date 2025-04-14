@@ -1,6 +1,7 @@
 # SwipeSense : Exploring the Feasibility of Back-of-Device Swipe Interaction Using Built-In IMU Sensors
 **Neel Shah, Dr. Marinana Shimabukuro, Dr. Ali Neshati**  
 *Ontario Tech University*
+<br>
 [![Data](https://img.shields.io/badge/Data-Will%20be%20released%20soon-blue)](DATA)
 
 <figure>
