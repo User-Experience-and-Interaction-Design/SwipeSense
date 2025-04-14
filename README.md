@@ -6,8 +6,9 @@
 
 The growing dimensions of smartphones have intensified the challenges associated with screen reachability. Back-of-device (BoD) interaction expands the range of reachability and offers a promising solution to mitigate screen occlusion while enhancing one-handed interactions. However, much of the existing research relies on incorporating additional hardware components. In this paper, we present SwipeSense a technique for exploring the feasibility of directional swipe interactions on the back of devices, utilizing built-in inertial measurement unit (IMU) sensors and machine learning models. We conducted a user study with 12 participants who performed 9600 BoD swipes in 8 distinct directions while holding the device naturally. The results of our machine learning models indicate that various directional swipes on the back of the device can be accurately distinguished using only the built-in IMU sensors of the phone, achieving a range of model accuracy between 72% and 93%. Furthermore, we showcase potential applications for these gestures.
 
+[![Data](https://img.shields.io/badge/Data-Will%20be%20released%20soon-blue)](DATA)
 
-SwipeSenseUserStudy
+## SwipeSenseUserStudy
 
 This directory contains the complete codebase for the user study described in the SwipeSense paper. The code is organized into subdirectories that handle different aspects of the application:
 
