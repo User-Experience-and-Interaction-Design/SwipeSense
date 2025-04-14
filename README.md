@@ -7,10 +7,16 @@
 
 <figure>
   <img src="assets/Teaser.jpg" alt="Teaser Image">
-  <figcaption style="font-size: 0.8em; font-style: italic;">
-    Figure 1: a. Common “fat finger” problem during direct touchscreen interaction where the user’s finger blocks the display content. b. One-handed scrolling using a back-of-device swipe, which allows seamless interaction while holding another object. c. Answering an incoming call with a diagonal back-of-device swipe, enabling quick interaction while holding onto a support handle in a busy environment.
+  <figcaption>
+    <small><em>
+      Figure 1: a. Common “fat finger” problem during direct touchscreen interaction where the user’s finger blocks the display content. 
+      b. One-handed scrolling using a back-of-device swipe, which allows seamless interaction while holding another object. 
+      c. Answering an incoming call with a diagonal back-of-device swipe, enabling quick interaction while holding onto a support handle in a busy environment.
+    </em></small>
   </figcaption>
 </figure>
+
+
 
 <br>
 
