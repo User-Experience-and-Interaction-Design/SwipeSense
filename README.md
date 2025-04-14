@@ -18,14 +18,13 @@ The growing dimensions of smartphones have intensified the challenges associated
 
 ---
 ### Demo Video
-
 The video below demonstrates the SwipeSense interaction in action. Click play to watch the demo:
 
-<video width="640" controls>
-  <source src="assets/SwipeSense%20Video%20Figure.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
+<p align="center">
+  <a href="https://youtu.be/JErq3_347tg">
+    <img src="assets/Teaser.jpg" alt="Click to watch video" width="300px" />
+  </a>
+</p>
 ---
 
 ## SwipeSenseNet: The Multi-Task Model
